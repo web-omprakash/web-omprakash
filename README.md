@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mohit Sharma A passionate Web developer from India 🔭 Now i'm Student.🌱 I’m currently learning React.
+I'm Om Prakash Sharma A passionate Web developer from India 🔭 Now i'm Student.🌱 I’m currently learning Java.
 
 👨‍💻 All of my projects are available at github Account.
 
