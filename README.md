@@ -4,7 +4,7 @@ I'm Om Prakash Sharma A passionate Web developer from India 🔭 Now i'm Student
 
 👨‍💻 All of my projects are available at github Account.
 
-💬 Ask me about html, css, javscript, bootstrap, data structure, git, Python, Network.
+💬 Ask me about html, css, javscript, bootstrap, data structure, git, java, Network.
 
 📫 How to reach me omprakash8935907958@gmail.com
 
